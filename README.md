@@ -2,7 +2,7 @@
 
 This is a simple Drum Kit project built using HTML, CSS, and JavaScript. Click the link below to view it live!
 
-[🌐 Live Demo]([https://your-live-url-here](https://yyigitgokmen.github.io/W5Drumkit/))
+[🌐 Live Demo](https://yyigitgokmen.github.io/W5Drumkit/)
 
 ---
 
